@@ -1,0 +1,4 @@
+/src/disks/__pycache__
+/.venv
+/data
+*.pdf
